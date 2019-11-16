@@ -7,6 +7,7 @@ import org.junit.BeforeClass;
 import static org.junit.Assert.*;
 
 public class DataManagerTest {
+
     static DataManager sDataManager;
     @BeforeClass
     public static void classSetUp() {
